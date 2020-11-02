@@ -2,5 +2,5 @@
 	"tcpPort": 7777,
 	"websocketPort": 7778,
 	"startingCardCountPerPlayer": 8,
-	"initialTimeLeftPerPlayer": 15
+	"initialTimeLeftPerPlayer": 30
 }
